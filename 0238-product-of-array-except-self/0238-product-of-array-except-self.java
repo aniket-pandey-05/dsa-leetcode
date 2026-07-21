@@ -9,13 +9,10 @@ class Solution {
             curSum *= nums[i-1];
             ans[i] = curSum;
         }
-        curSum = 1;
-        for(int j = nums.length-2 ; j >= 0 ; j--){
-            curSum *= nums[j+1];
-            rightarr[j] = curSum;
-        }
-        for(int i = 0 ; i < nums.length ; i++){
-            ans[i] *= rightarr[i];
+        int rightProd = 1;
+        for(int j = nums.length-1 ; j >= 0 ; j--){
+            ans[j] *= rightProd;
+            rightProd *= nums[j];
         }
         return ans;
     }
