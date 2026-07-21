@@ -10,8 +10,6 @@ class Solution {
                     Element = nums[i];
                     count++;
                 }
-                
-                
             }
         }
         return Element;
