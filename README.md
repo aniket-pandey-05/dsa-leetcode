@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0724-find-pivot-index) |
@@ -48,20 +49,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -78,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
