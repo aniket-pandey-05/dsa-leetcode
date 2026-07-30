@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0485-max-consecutive-ones) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -94,4 +97,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
