@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0278-first-bad-version) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
