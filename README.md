@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0875-koko-eating-bananas) |
 | [1480-running-sum-of-1d-array](https://github.com/Ancode-20/dsa-leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Interactive
 |  |
