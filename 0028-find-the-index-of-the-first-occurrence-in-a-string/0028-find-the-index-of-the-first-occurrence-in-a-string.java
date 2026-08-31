@@ -5,6 +5,7 @@ class Solution {
             if((haystack.substring(i,(i+(needle.length())))).equals(needle)) return i;
             i++;
         }
+        
         return -1;
     }
 }
