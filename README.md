@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1480-running-sum-of-1d-array](https://github.com/Ancode-20/dsa-leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0268-missing-number) |
+| [0877-stone-game](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0877-stone-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Bit Manipulation
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0877-stone-game) |
 ## Simulation
 |  |
 | ------- |
@@ -158,4 +161,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
