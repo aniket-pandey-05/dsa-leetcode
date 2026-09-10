@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0485-max-consecutive-ones) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Ancode-20/dsa-leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0410-split-array-largest-sum) |
 | [0877-stone-game](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0877-stone-game) |
 ## Simulation
 |  |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0875-koko-eating-bananas) |
@@ -180,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0877-stone-game) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
