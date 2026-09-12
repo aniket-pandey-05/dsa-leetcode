@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0231-power-of-two) |
 ## Sliding Window
 |  |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Minimax
 |  |
