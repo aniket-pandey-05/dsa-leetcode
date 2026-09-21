@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [4034-minimum-bishop-moves-to-reach-target](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0877-stone-game) |
 | [1922-count-good-numbers](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/1922-count-good-numbers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [4034-minimum-bishop-moves-to-reach-target](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 ## Bit Manipulation
 |  |
 | ------- |
