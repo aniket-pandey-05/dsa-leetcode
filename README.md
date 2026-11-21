@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0283-move-zeroes) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Dynamic Programming
 |  |
@@ -266,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0073-set-matrix-zeroes) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/aniket-pandey-05/dsa-leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
